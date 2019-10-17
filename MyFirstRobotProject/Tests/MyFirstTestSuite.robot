@@ -38,8 +38,8 @@ MySecondTest
 MyThirdTest
     Log        Inside thrid test
 
-MyFourTest
-    Log        Inside four test
+MyFourthTest
+    Log        Inside fourth test
 
 # FirstSeleniumTest
     # [Documentation]    download and add chromebrowser.exe to the python/script or write the path
